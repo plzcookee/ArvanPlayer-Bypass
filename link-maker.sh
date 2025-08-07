@@ -1,5 +1,6 @@
 #!/bin/bash
-
+wget --tries=0 --wait=5 --random-wait --input-file=links.txt
+```
 for i in {1..392}; do
-	echo "https://memoryleak.arvanvod.com/kb7yZJyN0g/PeAWr4vmMl/h_,144_200,240_400,360_800,480_1500,720_2500,1080_4366,k.mp4.list/seg-$i-f5-v1-a1.ts"
+	echo "https://app.thahub.lol/_next/static/chunks/6434-f1ba83ef6f4d8ff1.js"
 done
